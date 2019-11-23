@@ -1,0 +1,21 @@
+#MissionStatementDiv {
+    font-family: "consolas";
+    font-weight: bold;
+    
+  }
+  
+  
+
+
+
+  
+#MyImage { 
+    width: 60%;
+    max-width: 200px;
+    height: auto; 
+    background: white; 
+    border-radius: 50%;			
+    padding: 3px; 
+    border: 1px solid black; 
+  }			
+  

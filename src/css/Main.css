@@ -1,0 +1,25 @@
+.myContainerTOP { 
+    font-size: 100%;
+    display: inline-block; 
+    text-align: center;  
+    font-family:  "Arial";
+    padding: 0.5em; 
+    border: 3px solid black;
+    overflow: hidden;
+    min-height: 90vh;
+    min-width: 80vw;
+  }		
+  
+
+
+  
+#MyImage { 
+    width: 60%;
+    max-width: 200px;
+    height: auto; 
+    background: white; 
+    border-radius: 50%;			
+    padding: 3px; 
+    border: 1px solid black; 
+  }			
+  

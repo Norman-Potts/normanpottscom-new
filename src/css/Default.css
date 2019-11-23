@@ -1,0 +1,33 @@
+
+body { 
+    overflow: auto; 
+          text-align: center;
+}	
+           
+.mapmarker { display: inline-block; }
+svg { display: inline-block; }
+/*background: rgb(179, 255, 217);*/
+.myGreen { background: rgb(179, 255, 217); }
+.myPurple { background: rgb(198, 179, 255); }
+.myBlue { background: 	rgb(179, 236, 255); }
+.myRed { background: 	rgb(255, 179, 179); }
+.myYellow { background: rgb(255, 255, 179); }
+
+  
+
+.bold { font-weight: bold; }
+.black { color: rgb(0,0,0); }			
+.navy { color: navy; }			
+    
+.LogoIcons { width: 30px; }			
+ 
+body p {
+  margin-top: 2em;
+  font-weight: bold;
+}
+        
+.InDevelopment {
+  font-size: 4em;  
+}
+
+

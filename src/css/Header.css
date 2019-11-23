@@ -1,0 +1,77 @@
+header a { 
+    text-decoration: none;
+    cursor: pointer;
+    font-weight: normal;
+    border: 5px solid rgb(191, 0, 255);
+    padding: 0.7em;
+    margin-left: 0.5em;
+    margin-top: 0.25em;
+    display: inline-block;		 
+    border-radius: 0.5em;
+    background-color: #bf00ff;
+    color: white;
+    /*-webkit-transition-duration: 0.4s; 
+    transition-duration: 0.4s;*/
+    vertical-align: top;
+    
+  }			
+  
+  header a:hover {
+    background-color: white; 
+    color: black;
+  }
+  
+  header h4 {
+    padding: 0;
+    margin: 0 0 1em 0;
+    vertical-align: top;
+  }
+  
+  header {            
+          border: 3px solid black;
+    padding: 0.5em 0.5em 1em 0.5em;			
+    font-size: 100%;
+    display: inline-block; 
+    text-align: left;  
+    font-family:  "Arial";
+    
+    border: 3px solid black;
+    overflow: hidden;			
+    min-width: 80vw;
+    
+  }
+  
+  .small_myImg { 
+      width: 3em;
+      max-width: 200px;
+      height: auto; 
+      background: white; 
+      border-radius: 50%;		
+      padding: 2px; 
+      border: 1px solid black; 
+      display: inline-block;
+      vertical-align: middle;
+      margin-right: 1.2em;
+  }			
+  
+  
+
+  #french {
+    border-color: blue;
+    background: blue;
+    color: white;
+  }
+  #french:hover {
+    color: blue;
+    background: white;
+  }
+  
+
+
+  
+.homelink {
+    border-color: navy;
+    background: navy;
+  }
+  
+  
